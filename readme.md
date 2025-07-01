@@ -18,4 +18,4 @@ root@u24srv01:~# uname -r
 root@u24srv01:~/kernel_16# dpkg -i *.deb
 ##### Проверка
 root@u24srv01:~/kernel_16# uname -r  
-6.13.2-061302-generic
+* 6.15.0-061500-generic
